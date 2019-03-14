@@ -9,5 +9,6 @@ begin
 end;
 
 begin
+  hello;
 end.
 
