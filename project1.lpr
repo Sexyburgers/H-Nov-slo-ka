@@ -12,6 +12,7 @@ begin
   word := 'No iDea';
   halp(word);
   halp2(word);
+  halp(word);
   readln;
 end.
 
