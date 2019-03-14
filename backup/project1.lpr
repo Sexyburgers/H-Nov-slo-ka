@@ -13,20 +13,17 @@ begin
   word := 'No iDea';
   halp(word);
   halp2(word);
-  halp(word)
+  halp(word);
   readln;
 =======
-procedure hello;
-begin
-  writeln('Hello world!');
-end;
+
 procedure hello2;
 begin
   writeln('Hello vojto!');
 end;
 
 begin
-  hello;
+  hello2;
 >>>>>>> 558b4316edd9cae57cea9ebe378ffec6d34306ff
 end.
 
