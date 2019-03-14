@@ -6,7 +6,7 @@ end;
 
 var word :string;
 begin
-  word := 'No iDea'
+  word := 'No iDea';
   halp(word);
   readln;
 end.
